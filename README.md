@@ -25,7 +25,7 @@ $ yaourt -S batify
 ## Manually
 
 ```
-$ git clone --recursive https://github.com/Ventto/batify.git
+$ git clone --recursive https://github.com/lungtendo/batify.git
 $ cd batify
 $ sudo make install
 ```
